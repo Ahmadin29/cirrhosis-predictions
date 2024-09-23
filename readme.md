@@ -20,6 +20,8 @@ Warning: The result won't be 100% accurate.
   
 5. Run the `python3 main.py` or `main.ipynb` in google colab
 
+## API Documentation 📖
+The API to make a predictions documentation is available [here](https://github.com/Ahmadin29/cirrhosis-prediction-api)
 
 ## Contributors 👤
 Made with love by
